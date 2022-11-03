@@ -1,5 +1,5 @@
 # **class IndexMap**
-  A map that is 
+  A map that uses binary search
 ## **Constructors**
 ### `new IndexMap(sortedArrays = [keys[], values[]])`
   - **sortedArrays {`[]`} _OPTIONAL_** An array of two aligned array where the first are the keys and the second are the values. The keys must be aligned to their values and must be sorted in ascending order.
